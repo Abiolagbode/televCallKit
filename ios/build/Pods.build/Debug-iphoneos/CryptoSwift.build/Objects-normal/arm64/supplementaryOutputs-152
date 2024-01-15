@@ -1,0 +1,24 @@
+"/Users/macbookpro/Documents/televersecall/ios/Pods/CryptoSwift/Sources/CryptoSwift/RSA/RSA+Cipher.swift":
+  object: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/RSA+Cipher.o"
+  diagnostics: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/RSA+Cipher.dia"
+  const-values: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/RSA+Cipher.swiftconstvalues"
+  dependencies: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/RSA+Cipher.d"
+  swift-dependencies: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/RSA+Cipher.swiftdeps"
+"/Users/macbookpro/Documents/televersecall/ios/Pods/CryptoSwift/Sources/CryptoSwift/Scrypt.swift":
+  object: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/Scrypt.o"
+  const-values: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/Scrypt.swiftconstvalues"
+  swift-dependencies: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/Scrypt.swiftdeps"
+  diagnostics: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/Scrypt.dia"
+  dependencies: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/Scrypt.d"
+"/Users/macbookpro/Documents/televersecall/ios/Pods/CryptoSwift/Sources/CryptoSwift/RSA/RSA.swift":
+  dependencies: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/RSA.d"
+  const-values: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/RSA.swiftconstvalues"
+  swift-dependencies: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/RSA.swiftdeps"
+  object: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/RSA.o"
+  diagnostics: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/RSA.dia"
+"/Users/macbookpro/Documents/televersecall/ios/Pods/CryptoSwift/Sources/CryptoSwift/RSA/RSA+Signature.swift":
+  object: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/RSA+Signature.o"
+  diagnostics: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/RSA+Signature.dia"
+  dependencies: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/RSA+Signature.d"
+  const-values: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/RSA+Signature.swiftconstvalues"
+  swift-dependencies: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/RSA+Signature.swiftdeps"

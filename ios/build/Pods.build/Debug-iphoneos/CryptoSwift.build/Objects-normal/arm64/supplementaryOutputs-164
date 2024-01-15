@@ -1,0 +1,18 @@
+"/Users/macbookpro/Documents/televersecall/ios/Pods/CryptoSwift/Sources/CryptoSwift/BlockCipher.swift":
+  object: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/BlockCipher.o"
+  const-values: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/BlockCipher.swiftconstvalues"
+  dependencies: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/BlockCipher.d"
+  swift-dependencies: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/BlockCipher.swiftdeps"
+  diagnostics: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/BlockCipher.dia"
+"/Users/macbookpro/Documents/televersecall/ios/Pods/CryptoSwift/Sources/CryptoSwift/BlockDecryptor.swift":
+  swift-dependencies: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/BlockDecryptor.swiftdeps"
+  const-values: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/BlockDecryptor.swiftconstvalues"
+  object: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/BlockDecryptor.o"
+  dependencies: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/BlockDecryptor.d"
+  diagnostics: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/BlockDecryptor.dia"
+"/Users/macbookpro/Documents/televersecall/ios/Pods/CryptoSwift/Sources/CryptoSwift/ASN1/ASN1Scanner.swift":
+  diagnostics: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/ASN1Scanner.dia"
+  swift-dependencies: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/ASN1Scanner.swiftdeps"
+  const-values: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/ASN1Scanner.swiftconstvalues"
+  object: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/ASN1Scanner.o"
+  dependencies: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/ASN1Scanner.d"

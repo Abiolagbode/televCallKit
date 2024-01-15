@@ -1,0 +1,18 @@
+"/Users/macbookpro/Documents/televersecall/ios/Pods/CryptoSwift/Sources/CryptoSwift/BlockMode/ECB.swift":
+  dependencies: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/ECB.d"
+  object: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/ECB.o"
+  swift-dependencies: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/ECB.swiftdeps"
+  diagnostics: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/ECB.dia"
+  const-values: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/ECB.swiftconstvalues"
+"/Users/macbookpro/Documents/televersecall/ios/Pods/CryptoSwift/Sources/CryptoSwift/CS_BigInt/Floating Point Conversion.swift":
+  dependencies: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/Floating Point Conversion.d"
+  swift-dependencies: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/Floating Point Conversion.swiftdeps"
+  diagnostics: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/Floating Point Conversion.dia"
+  object: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/Floating Point Conversion.o"
+  const-values: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/Floating Point Conversion.swiftconstvalues"
+"/Users/macbookpro/Documents/televersecall/ios/Pods/CryptoSwift/Sources/CryptoSwift/Foundation/Data+Extension.swift":
+  object: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/Data+Extension.o"
+  dependencies: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/Data+Extension.d"
+  diagnostics: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/Data+Extension.dia"
+  swift-dependencies: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/Data+Extension.swiftdeps"
+  const-values: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/Data+Extension.swiftconstvalues"

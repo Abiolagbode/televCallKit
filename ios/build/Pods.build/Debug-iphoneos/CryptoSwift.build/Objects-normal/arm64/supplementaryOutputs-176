@@ -1,0 +1,18 @@
+"/Users/macbookpro/Documents/televersecall/ios/Pods/CryptoSwift/Sources/CryptoSwift/CS_BigInt/Comparable.swift":
+  const-values: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/Comparable.swiftconstvalues"
+  swift-dependencies: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/Comparable.swiftdeps"
+  diagnostics: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/Comparable.dia"
+  object: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/Comparable.o"
+  dependencies: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/Comparable.d"
+"/Users/macbookpro/Documents/televersecall/ios/Pods/CryptoSwift/Sources/CryptoSwift/Cryptors.swift":
+  const-values: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/Cryptors.swiftconstvalues"
+  diagnostics: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/Cryptors.dia"
+  dependencies: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/Cryptors.d"
+  swift-dependencies: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/Cryptors.swiftdeps"
+  object: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/Cryptors.o"
+"/Users/macbookpro/Documents/televersecall/ios/Pods/CryptoSwift/Sources/CryptoSwift/PEM/DER.swift":
+  object: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/DER.o"
+  const-values: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/DER.swiftconstvalues"
+  dependencies: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/DER.d"
+  swift-dependencies: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/DER.swiftdeps"
+  diagnostics: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/DER.dia"

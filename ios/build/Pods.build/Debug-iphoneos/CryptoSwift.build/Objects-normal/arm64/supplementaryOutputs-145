@@ -1,0 +1,30 @@
+"/Users/macbookpro/Documents/televersecall/ios/Pods/CryptoSwift/Sources/CryptoSwift/ASN1/ASN1.swift":
+  const-values: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/ASN1.swiftconstvalues"
+  dependencies: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/ASN1.d"
+  swift-dependencies: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/ASN1.swiftdeps"
+  diagnostics: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/ASN1.dia"
+  object: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/ASN1.o"
+"/Users/macbookpro/Documents/televersecall/ios/Pods/CryptoSwift/Sources/CryptoSwift/Foundation/Array+Foundation.swift":
+  object: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/Array+Foundation.o"
+  const-values: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/Array+Foundation.swiftconstvalues"
+  swift-dependencies: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/Array+Foundation.swiftdeps"
+  diagnostics: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/Array+Foundation.dia"
+  dependencies: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/Array+Foundation.d"
+"/Users/macbookpro/Documents/televersecall/ios/Pods/CryptoSwift/Sources/CryptoSwift/Foundation/AES+Foundation.swift":
+  const-values: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/AES+Foundation.swiftconstvalues"
+  diagnostics: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/AES+Foundation.dia"
+  dependencies: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/AES+Foundation.d"
+  object: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/AES+Foundation.o"
+  swift-dependencies: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/AES+Foundation.swiftdeps"
+"/Users/macbookpro/Documents/televersecall/ios/Pods/CryptoSwift/Sources/CryptoSwift/Array+Extension.swift":
+  object: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/Array+Extension.o"
+  diagnostics: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/Array+Extension.dia"
+  swift-dependencies: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/Array+Extension.swiftdeps"
+  const-values: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/Array+Extension.swiftconstvalues"
+  dependencies: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/Array+Extension.d"
+"/Users/macbookpro/Documents/televersecall/ios/Pods/CryptoSwift/Sources/CryptoSwift/AES.Cryptors.swift":
+  dependencies: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/AES.Cryptors.d"
+  diagnostics: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/AES.Cryptors.dia"
+  object: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/AES.Cryptors.o"
+  swift-dependencies: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/AES.Cryptors.swiftdeps"
+  const-values: "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/Objects-normal/arm64/AES.Cryptors.swiftconstvalues"

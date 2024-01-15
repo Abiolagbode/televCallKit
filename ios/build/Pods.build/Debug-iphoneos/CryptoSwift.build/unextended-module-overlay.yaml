@@ -1,0 +1,23 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/macbookpro/Documents/televersecall/ios/build/Debug-iphoneos/CryptoSwift/CryptoSwift.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    'type': 'directory',
+    'name': "/Users/macbookpro/Documents/televersecall/ios/build/Debug-iphoneos/CryptoSwift/CryptoSwift.framework/Headers"
+    'contents': [{
+      'type': 'file',
+      'name': "CryptoSwift-Swift.h",
+      'external-contents': "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/CryptoSwift.build/unextended-interface-header.h",
+    }]
+    }]
+}

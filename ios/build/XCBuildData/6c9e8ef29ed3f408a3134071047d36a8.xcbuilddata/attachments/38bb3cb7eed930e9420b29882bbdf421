@@ -1,0 +1,23 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/macbookpro/Documents/televersecall/ios/build/Debug-iphoneos/flutter_callkit_incoming/flutter_callkit_incoming.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/flutter_callkit_incoming.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    'type': 'directory',
+    'name': "/Users/macbookpro/Documents/televersecall/ios/build/Debug-iphoneos/flutter_callkit_incoming/flutter_callkit_incoming.framework/Headers"
+    'contents': [{
+      'type': 'file',
+      'name': "flutter_callkit_incoming-Swift.h",
+      'external-contents': "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/flutter_callkit_incoming.build/unextended-interface-header.h",
+    }]
+    }]
+}

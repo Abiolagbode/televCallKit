@@ -1,0 +1,14 @@
+Target dependency graph (5 targets)
+Target 'Runner' in project 'Runner'
+➜ Implicit dependency on target 'Pods-Runner' in project 'Pods' via file 'Pods_Runner.framework' in build phase 'Link Binary'
+➜ Implicit dependency on target 'CryptoSwift' in project 'Pods' via options '-framework CryptoSwift' in build setting 'OTHER_LDFLAGS'
+➜ Implicit dependency on target 'flutter_callkit_incoming' in project 'Pods' via options '-framework flutter_callkit_incoming' in build setting 'OTHER_LDFLAGS'
+Target 'Pods-Runner' in project 'Pods'
+➜ Explicit dependency on target 'CryptoSwift' in project 'Pods'
+➜ Explicit dependency on target 'Flutter' in project 'Pods'
+➜ Explicit dependency on target 'flutter_callkit_incoming' in project 'Pods'
+Target 'flutter_callkit_incoming' in project 'Pods'
+➜ Explicit dependency on target 'CryptoSwift' in project 'Pods'
+➜ Explicit dependency on target 'Flutter' in project 'Pods'
+Target 'Flutter' in project 'Pods' (no dependencies)
+Target 'CryptoSwift' in project 'Pods' (no dependencies)

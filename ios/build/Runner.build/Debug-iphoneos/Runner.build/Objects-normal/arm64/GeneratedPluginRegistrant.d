@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/macbookpro/Documents/televersecall/ios/Runner/GeneratedPluginRegistrant.m \
+  /Users/macbookpro/Documents/televersecall/ios/Runner/GeneratedPluginRegistrant.h \
+  /Users/macbookpro/Documents/televersecall/ios/build/Debug-iphoneos/Flutter.framework/Modules/module.modulemap \
+  /Users/macbookpro/Documents/televersecall/ios/build/Debug-iphoneos/Flutter.framework/Headers/Flutter.h \
+  /Users/macbookpro/Documents/televersecall/ios/build/Debug-iphoneos/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/macbookpro/Documents/televersecall/ios/build/Debug-iphoneos/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/macbookpro/Documents/televersecall/ios/build/Debug-iphoneos/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/macbookpro/Documents/televersecall/ios/build/Debug-iphoneos/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/macbookpro/Documents/televersecall/ios/build/Debug-iphoneos/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/macbookpro/Documents/televersecall/ios/build/Debug-iphoneos/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/macbookpro/Documents/televersecall/ios/build/Debug-iphoneos/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/macbookpro/Documents/televersecall/ios/build/Debug-iphoneos/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/macbookpro/Documents/televersecall/ios/build/Debug-iphoneos/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/macbookpro/Documents/televersecall/ios/build/Debug-iphoneos/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/macbookpro/Documents/televersecall/ios/build/Debug-iphoneos/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/macbookpro/Documents/televersecall/ios/build/Debug-iphoneos/Flutter.framework/Headers/FlutterEngineGroup.h \
+  /Users/macbookpro/Documents/televersecall/ios/build/Debug-iphoneos/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/macbookpro/Documents/televersecall/ios/build/Debug-iphoneos/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/macbookpro/Documents/televersecall/ios/build/Debug-iphoneos/Flutter.framework/Headers/FlutterViewController.h \
+  /Users/macbookpro/Documents/televersecall/ios/build/Debug-iphoneos/flutter_callkit_incoming/flutter_callkit_incoming.framework/Headers/FlutterCallkitIncomingPlugin.h \
+  /Users/macbookpro/Documents/televersecall/ios/build/Debug-iphoneos/flutter_callkit_incoming/flutter_callkit_incoming.framework/Modules/module.modulemap \
+  /Users/macbookpro/Documents/televersecall/ios/build/Debug-iphoneos/flutter_callkit_incoming/flutter_callkit_incoming.framework/Headers/flutter_callkit_incoming-umbrella.h \
+  /Users/macbookpro/Documents/televersecall/ios/build/Debug-iphoneos/flutter_callkit_incoming/flutter_callkit_incoming.framework/Headers/flutter_callkit_incoming-Swift.h

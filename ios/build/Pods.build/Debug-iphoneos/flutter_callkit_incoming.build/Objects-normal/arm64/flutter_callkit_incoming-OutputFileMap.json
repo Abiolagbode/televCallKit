@@ -1,0 +1,78 @@
+{
+  "" : {
+    "diagnostics" : "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/flutter_callkit_incoming.build/Objects-normal/arm64/flutter_callkit_incoming-master.dia",
+    "emit-module-dependencies" : "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/flutter_callkit_incoming.build/Objects-normal/arm64/flutter_callkit_incoming-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/flutter_callkit_incoming.build/Objects-normal/arm64/flutter_callkit_incoming-master-emit-module.dia",
+    "swift-dependencies" : "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/flutter_callkit_incoming.build/Objects-normal/arm64/flutter_callkit_incoming-master.swiftdeps"
+  },
+  "/Users/macbookpro/.pub-cache/hosted/pub.dev/flutter_callkit_incoming-2.0.1+1/ios/Classes/Call.swift" : {
+    "const-values" : "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/flutter_callkit_incoming.build/Objects-normal/arm64/Call.swiftconstvalues",
+    "dependencies" : "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/flutter_callkit_incoming.build/Objects-normal/arm64/Call.d",
+    "diagnostics" : "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/flutter_callkit_incoming.build/Objects-normal/arm64/Call.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/flutter_callkit_incoming.build/Objects-normal/arm64/Call.o",
+    "llvm-bc" : "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/flutter_callkit_incoming.build/Objects-normal/arm64/Call.bc",
+    "object" : "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/flutter_callkit_incoming.build/Objects-normal/arm64/Call.o",
+    "swift-dependencies" : "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/flutter_callkit_incoming.build/Objects-normal/arm64/Call.swiftdeps",
+    "swiftmodule" : "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/flutter_callkit_incoming.build/Objects-normal/arm64/Call~partial.swiftmodule"
+  },
+  "/Users/macbookpro/.pub-cache/hosted/pub.dev/flutter_callkit_incoming-2.0.1+1/ios/Classes/CallkitIncomingAppDelegate.swift" : {
+    "const-values" : "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/flutter_callkit_incoming.build/Objects-normal/arm64/CallkitIncomingAppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/flutter_callkit_incoming.build/Objects-normal/arm64/CallkitIncomingAppDelegate.d",
+    "diagnostics" : "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/flutter_callkit_incoming.build/Objects-normal/arm64/CallkitIncomingAppDelegate.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/flutter_callkit_incoming.build/Objects-normal/arm64/CallkitIncomingAppDelegate.o",
+    "llvm-bc" : "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/flutter_callkit_incoming.build/Objects-normal/arm64/CallkitIncomingAppDelegate.bc",
+    "object" : "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/flutter_callkit_incoming.build/Objects-normal/arm64/CallkitIncomingAppDelegate.o",
+    "swift-dependencies" : "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/flutter_callkit_incoming.build/Objects-normal/arm64/CallkitIncomingAppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/flutter_callkit_incoming.build/Objects-normal/arm64/CallkitIncomingAppDelegate~partial.swiftmodule"
+  },
+  "/Users/macbookpro/.pub-cache/hosted/pub.dev/flutter_callkit_incoming-2.0.1+1/ios/Classes/CallManager.swift" : {
+    "const-values" : "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/flutter_callkit_incoming.build/Objects-normal/arm64/CallManager.swiftconstvalues",
+    "dependencies" : "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/flutter_callkit_incoming.build/Objects-normal/arm64/CallManager.d",
+    "diagnostics" : "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/flutter_callkit_incoming.build/Objects-normal/arm64/CallManager.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/flutter_callkit_incoming.build/Objects-normal/arm64/CallManager.o",
+    "llvm-bc" : "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/flutter_callkit_incoming.build/Objects-normal/arm64/CallManager.bc",
+    "object" : "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/flutter_callkit_incoming.build/Objects-normal/arm64/CallManager.o",
+    "swift-dependencies" : "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/flutter_callkit_incoming.build/Objects-normal/arm64/CallManager.swiftdeps",
+    "swiftmodule" : "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/flutter_callkit_incoming.build/Objects-normal/arm64/CallManager~partial.swiftmodule"
+  },
+  "/Users/macbookpro/.pub-cache/hosted/pub.dev/flutter_callkit_incoming-2.0.1+1/ios/Classes/NSUserActivity.swift" : {
+    "const-values" : "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/flutter_callkit_incoming.build/Objects-normal/arm64/NSUserActivity.swiftconstvalues",
+    "dependencies" : "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/flutter_callkit_incoming.build/Objects-normal/arm64/NSUserActivity.d",
+    "diagnostics" : "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/flutter_callkit_incoming.build/Objects-normal/arm64/NSUserActivity.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/flutter_callkit_incoming.build/Objects-normal/arm64/NSUserActivity.o",
+    "llvm-bc" : "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/flutter_callkit_incoming.build/Objects-normal/arm64/NSUserActivity.bc",
+    "object" : "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/flutter_callkit_incoming.build/Objects-normal/arm64/NSUserActivity.o",
+    "swift-dependencies" : "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/flutter_callkit_incoming.build/Objects-normal/arm64/NSUserActivity.swiftdeps",
+    "swiftmodule" : "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/flutter_callkit_incoming.build/Objects-normal/arm64/NSUserActivity~partial.swiftmodule"
+  },
+  "/Users/macbookpro/.pub-cache/hosted/pub.dev/flutter_callkit_incoming-2.0.1+1/ios/Classes/StringUtils.swift" : {
+    "const-values" : "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/flutter_callkit_incoming.build/Objects-normal/arm64/StringUtils.swiftconstvalues",
+    "dependencies" : "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/flutter_callkit_incoming.build/Objects-normal/arm64/StringUtils.d",
+    "diagnostics" : "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/flutter_callkit_incoming.build/Objects-normal/arm64/StringUtils.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/flutter_callkit_incoming.build/Objects-normal/arm64/StringUtils.o",
+    "llvm-bc" : "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/flutter_callkit_incoming.build/Objects-normal/arm64/StringUtils.bc",
+    "object" : "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/flutter_callkit_incoming.build/Objects-normal/arm64/StringUtils.o",
+    "swift-dependencies" : "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/flutter_callkit_incoming.build/Objects-normal/arm64/StringUtils.swiftdeps",
+    "swiftmodule" : "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/flutter_callkit_incoming.build/Objects-normal/arm64/StringUtils~partial.swiftmodule"
+  },
+  "/Users/macbookpro/.pub-cache/hosted/pub.dev/flutter_callkit_incoming-2.0.1+1/ios/Classes/SwiftFlutterCallkitIncomingPlugin.swift" : {
+    "const-values" : "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/flutter_callkit_incoming.build/Objects-normal/arm64/SwiftFlutterCallkitIncomingPlugin.swiftconstvalues",
+    "dependencies" : "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/flutter_callkit_incoming.build/Objects-normal/arm64/SwiftFlutterCallkitIncomingPlugin.d",
+    "diagnostics" : "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/flutter_callkit_incoming.build/Objects-normal/arm64/SwiftFlutterCallkitIncomingPlugin.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/flutter_callkit_incoming.build/Objects-normal/arm64/SwiftFlutterCallkitIncomingPlugin.o",
+    "llvm-bc" : "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/flutter_callkit_incoming.build/Objects-normal/arm64/SwiftFlutterCallkitIncomingPlugin.bc",
+    "object" : "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/flutter_callkit_incoming.build/Objects-normal/arm64/SwiftFlutterCallkitIncomingPlugin.o",
+    "swift-dependencies" : "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/flutter_callkit_incoming.build/Objects-normal/arm64/SwiftFlutterCallkitIncomingPlugin.swiftdeps",
+    "swiftmodule" : "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/flutter_callkit_incoming.build/Objects-normal/arm64/SwiftFlutterCallkitIncomingPlugin~partial.swiftmodule"
+  },
+  "/Users/macbookpro/.pub-cache/hosted/pub.dev/flutter_callkit_incoming-2.0.1+1/ios/Classes/WeakArray.swift" : {
+    "const-values" : "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/flutter_callkit_incoming.build/Objects-normal/arm64/WeakArray.swiftconstvalues",
+    "dependencies" : "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/flutter_callkit_incoming.build/Objects-normal/arm64/WeakArray.d",
+    "diagnostics" : "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/flutter_callkit_incoming.build/Objects-normal/arm64/WeakArray.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/flutter_callkit_incoming.build/Objects-normal/arm64/WeakArray.o",
+    "llvm-bc" : "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/flutter_callkit_incoming.build/Objects-normal/arm64/WeakArray.bc",
+    "object" : "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/flutter_callkit_incoming.build/Objects-normal/arm64/WeakArray.o",
+    "swift-dependencies" : "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/flutter_callkit_incoming.build/Objects-normal/arm64/WeakArray.swiftdeps",
+    "swiftmodule" : "/Users/macbookpro/Documents/televersecall/ios/build/Pods.build/Debug-iphoneos/flutter_callkit_incoming.build/Objects-normal/arm64/WeakArray~partial.swiftmodule"
+  }
+}
